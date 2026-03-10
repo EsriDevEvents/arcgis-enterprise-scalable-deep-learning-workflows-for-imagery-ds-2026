@@ -1,8 +1,6 @@
-> **Note:** Please follow the [repository conventions](https://github.com/EsriDevEvents/contributor-guides/blob/main/conventions.md#conventions-for-repositories) and [slugify](https://slugify.online/) the title of your repo
+# ArcGIS Enterprise: Scalable Deep Learning Workflows for Imagery
 
-# Name of the session
-
-[Description of the session]
+In this technical session, speakers introduce workflows to create, train, and execute deep learning models for scalable imagery analysis using ArcGIS Enterprise and ArcGIS Image Server. Learn about the built-in application Deep Learning Studio for collaborative labeling and training, inferencing within ArcGIS Enterprise web maps, and automation using the ArcGIS API for Python.
 
 ## Slides and recording
 
